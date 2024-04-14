@@ -1,2 +1,2 @@
 # graphGH
-Localised Github contributions graph
+Localised Github contributions graph, written in Go
